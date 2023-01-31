@@ -1,6 +1,4 @@
-#<div align="center">
- Hello World!
-</div>  
+# <div align="center">Hello World!</div>  
   
 
 ### **<div align="center">My name is Samyr, but you can call me Samuel. I'm a passionate Full Stack developer</div>**  
