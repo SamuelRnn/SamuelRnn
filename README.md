@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [my portfolio](https://github.com/SamuelRnn/my-portfolio)  
   
 
-- 🌱 I’m currently learning Typescript, Next.js, Framer Motion, Dart and Flutter  
+- 🌱 I’m currently learning Typescript, Framer Motion, Dart and Flutter  
   
 
 - ❓ Ask me about Javascript, React, Express an related technologies!  
