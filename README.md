@@ -15,6 +15,7 @@
 
 - ⚡ 2 chars tab and music enjoyer  
   
+</div>
 
 <br/> 
 ## Languages and Tools  
@@ -39,4 +40,3 @@
 </div>  
 
 <br/>  
-</div>
