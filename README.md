@@ -1,7 +1,7 @@
 # <div align="center">Hello World!</div>  
   
 
-### **<div align="center">My name is Samyr, but you can call me Samuel. I'm a passionate full stack developer</div>**  
+### **<div align="center">Samuel Pérez. I'm a passionate full stack developer ☕</div>**  
   
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/SamuelRnn/my-portfolio)  
