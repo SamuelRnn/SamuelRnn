@@ -4,7 +4,7 @@
 ### **<div align="center">Samuel Pérez. I'm a passionate full stack developer ☕</div>**  
   
 
-- 🔭 Visit <a href="https://samuelrnn.vercel.app" target="_blank">my portfolio</a>
+- 🔭 Visit <a href="https://samuelrnn.vercel.app" target="_blank" rel="noopener">my portfolio</a>
   
 
 - 🌱 I’m currently learning Typescript, Framer Motion, Dart and Flutter  
