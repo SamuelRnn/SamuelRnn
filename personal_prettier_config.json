@@ -1,3 +1,4 @@
+// on .prettierrc.json file
 {
   "tabWidth": 2,
   "printWidth": 100,
