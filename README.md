@@ -7,10 +7,7 @@
 - 🔭 Visit <a href="https://samuelrnn.vercel.app" target="_blank" rel="noopener">my portfolio</a>
   
 
-- 🌱 I’m currently learning Typescript, Framer Motion, Dart and Flutter  
-  
-
-- ❓ Ask me about Javascript, React, Express an related technologies!  
+- ❓ Ask me about Javascript, Typescript, React, Express an related technologies!  
   
 
 - ⚡ 2 chars tab and music enjoyer  
