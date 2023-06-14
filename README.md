@@ -11,6 +11,7 @@
   
 
 - ⚡ 2 chars tab and music enjoyer  
+- 🔗 Test the package i made! (npm create ts-express-server)[https://www.npmjs.com/package/create-ts-express-server]
   
 </div>
 
