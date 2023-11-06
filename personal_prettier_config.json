@@ -1,9 +1,0 @@
-// on .prettierrc.json file
-{
-  "tabWidth": 2,
-  "printWidth": 100,
-  "useTabs": true,
-  "semi": false,
-  "singleQuote": true,
-  "jsxSingleQuote": true
-}
